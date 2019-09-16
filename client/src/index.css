@@ -63,6 +63,7 @@ body {
 }
 .save-button:hover {
   background-color: green;
+  cursor: pointer;
   color: white;
 }
 
