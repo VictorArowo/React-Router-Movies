@@ -63,10 +63,16 @@ body {
 }
 .save-button:hover {
   background-color: green;
+  cursor: pointer;
   color: white;
 }
 
 .home-button {
   padding: 5px 10px;
   background-color: lightskyblue;
+}
+
+a{
+  text-decoration: none;
+  color: black;
 }
